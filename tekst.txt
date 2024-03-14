@@ -1,1 +1,2 @@
 Wyniki poprzednich ćwiczeń
+Zmiana na branchu develop
