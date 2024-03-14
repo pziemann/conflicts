@@ -1,3 +1,3 @@
 Wyniki poprzednich ćwiczeń
-A to zmiany na branchu develop
 A to pozniejsze zmiany na mainie
+Zmiana na branchu develop
